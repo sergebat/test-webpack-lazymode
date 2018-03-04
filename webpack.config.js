@@ -7,8 +7,6 @@ module.exports = {
     filename: "bundle.js"
   },
   devServer: {
-    lazy: true,
-    inline: false,
-    filename: "bundle.js"
+    lazy: true
   }
 };
